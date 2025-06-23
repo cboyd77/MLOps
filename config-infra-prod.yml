@@ -19,5 +19,5 @@ variables:
 
   # For pipeline reference
   resource_group: Prod-RG
-  aml_workspace: BoydMLtech
+  aml_workspace: cboyd-aml
 
